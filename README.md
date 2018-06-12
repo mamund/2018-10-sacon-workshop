@@ -3,7 +3,7 @@
 _2018-11 London Edition_
 
 ### Other Links
- * [O'Reilly SACon Page](https://conferences.oreilly.com/software-architecture/sa-ny/public/schedule/detail/64016)
+ * [O'Reilly SACon Page](https://conferences.oreilly.com/software-architecture/sa-eu/public/schedule/detail/71359)
  * [Course Outline](outline.md)
  * [Agenda](agenda.md)
  * [Prerequisites/Background](background.md)
@@ -11,6 +11,7 @@ _2018-11 London Edition_
  * [Workshop Examples](examples/README.md)
  * [Slides](slides/README.md)
  * [In-Class Notes](/notes/README.md)
+
 
 ### Main Ideas
  * The role REST can play in microservice design

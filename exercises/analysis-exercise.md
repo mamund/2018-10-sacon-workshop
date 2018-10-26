@@ -16,6 +16,6 @@ In this exercise, select a BigCo story and perform the following tasks:
 
 _NOTE: do not think-about or document anything related to protocol (HTTP, Thrift, etc.), resources (URLs), or format (JSON, XML, etc.)_
 
-
+_See [CreditCheck Service SERVICE-PAGE](sample/credit-check-page.png) for an example_
 
  

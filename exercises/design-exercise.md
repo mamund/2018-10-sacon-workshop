@@ -5,8 +5,7 @@ In this exercise, you will use the results of your BigCo, Inc. story analysis to
 These are the tasks you need to perform to produce your ALPS design document:
 
  * Using Schema.org, update all your data names as needed to make sure all data names match a schema.org entry
- * Update your WebSequenceDiagram w/ the new data names (Optional)
- * Create a new ALPS document (JSON or XML) that reflects your updated story analysis
+ * Update/Replace your SERVICE-PAGE with the new data names
+ * Create an ALPS document (JSON or XML) that reflects your latest story analysis
 
-_NOTE: Do not worry about protocol (HTTP, Thrift, etc.), resources (URLs), or format (JSON, XML, etc.) details. Just indicate ALPS types (semantic, safe, unsafe) for now._
- 
+_See [CreditCheck Service ALPS](sample/credit-check-alps.xml) for an example_

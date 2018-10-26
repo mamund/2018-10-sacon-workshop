@@ -8,5 +8,8 @@ Data tracked for SalesReps includes name (first, middle, last), unique salesrep 
 
 Typical actions are creating, updating, and deleting (when a SalesRep is deleted, all data must be retained for reporting purposes). SalesReps can edit their name and contact info only. The Sales Supervisor can edit all fields except salesrep id and the tracking dates. List filters include name, email, and commission percentage.
 
-Special reports are run on demand that include Commission Report (rep name, id, percentage, and computed commision for the month), Account Report (rep name, id, associated accounts), Customer Report (rep name, id, associated customers and accounts).
+The following special lists/reports that run on demand are:
+ * Commission Report (rep name, id, percentage, and computed commision for the month)
+ * Account Report (rep name, id, associated accounts)
+ * Customer Report (rep name, id, associated customers and accounts).
    

@@ -15,4 +15,4 @@ These are the tasks to perform:
  * Add a colored round sticker to your SERVICE-PAGE for each of the patterns your service implements.
  * Optionally, discuss and record possible ways in which you can implement the selected stability patterns (e.g. technologies to use, services (SaaS or local), code patterns, etc.)
 
-_See [CrediCheck Stability](sample/credit-check-stability.png) for an example._
+_See [CreditCheck Stability](sample/credit-check-stability.png) for an example._

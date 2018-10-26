@@ -8,11 +8,17 @@ These are the tasks to complete for this exercise:
    * **S** = Stateless
    * **P** = Persistence
    * **A** = Aggregator
- * Select the input/output format for your service:
-   * HTML
+ * Add your services MSType string to your SERVICE-PAGE (TOP-MIDDLE)
+ * Select the input/output format(s) your service will support:
+   * HTML 
    * Collection+JSON
    * Siren
    * HAL
+   * Atom
+   * OData
    * JSON
    * XML
+ * Add a sticky note (with the format name on it) to your SERVICE-PAGE for each supported format
+
+_See [CreditCheck Implementation](sample/credit-check-implementation.png) for an example._
 

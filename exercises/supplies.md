@@ -9,7 +9,7 @@ These are the supplies needed for this exercise:
  * non-destructive adhesive tape (for posting elements to the wall or on other paper)
  * various colored markers (thick point)
  * whitebaord and various colored whiteboard-safe markers (optional)
- * tokens, chips, or some other "coins" 
+ * tokens, chips, or some other "coins" -- at least two sizes/colors 
  * copious scratch paper and pens/pencils
 
 

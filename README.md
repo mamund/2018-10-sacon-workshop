@@ -1,6 +1,6 @@
 ## RESTful Microservices from the Ground Up
 
-_2018-11 London Edition_
+_2018-10 London Edition_
 
 ### Other Links
  * [O'Reilly SACon Page](https://conferences.oreilly.com/software-architecture/sa-eu/public/schedule/detail/71359)

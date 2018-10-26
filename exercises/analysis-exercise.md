@@ -8,7 +8,11 @@ In this exercise, select a BigCo story and perform the following tasks:
    * Include all input arguments
    * Include all output arguments/objects/lists
    * Indicate whether the action is safe (read-only) or unsafe (modifies storage)
- * Optionally, produce a WebSequenceDiagram (http://websequencediagrams.com).
+ * Start your SERVICE-PAGE by adding the following information to it:
+   * Name of your story (Customers, Accounts, PostalCode, SalesRep)
+   * Unique ID (make up your own, try using a URL/URI)
+   * List of all unique data points (rep-name, id, etc.)
+   * List of all action names (read, write, listbyId, etc.)
 
 _NOTE: do not think-about or document anything related to protocol (HTTP, Thrift, etc.), resources (URLs), or format (JSON, XML, etc.)_
 

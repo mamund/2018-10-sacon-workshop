@@ -1,3 +1,6 @@
 ## Exercises
 
-Workshop exercises go here.
+Workshop exercise-related content goes here.
+
+ * [Stories](stories/README.md)
+

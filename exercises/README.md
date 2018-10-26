@@ -15,6 +15,6 @@ Workshop exercise-related content goes here.
  * [Discovery Exercise](discovery-exercise.md)
  * [Adaptability Exercise](adaptability-exercise.md)
 
-### BigCXo, Inc. Story Updates
+### BigCo, Inc. Story Updates
 
  * [Updates](updates/README.md)

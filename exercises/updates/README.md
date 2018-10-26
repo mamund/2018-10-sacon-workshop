@@ -1,4 +1,4 @@
-## BigCo, Inc. Upeated Story Files
+## BigCo, Inc. Updated Story Files
 
  * [Customers](customer-update.md)
  * [Accounts](account-update.md)

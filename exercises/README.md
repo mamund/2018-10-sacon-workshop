@@ -18,3 +18,8 @@ Workshop exercise-related content goes here.
 ### BigCo, Inc. Story Updates
 
  * [Updates](updates/README.md)
+
+### Exercise Supplies List
+
+ * [Supplies](supplies.md)
+

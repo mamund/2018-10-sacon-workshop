@@ -1,0 +1,22 @@
+<alps version="1.0">
+  <doc>Service description for CreditCheck Service for BigCo, Inc.</doc>
+
+  <!-- data points -->
+  <descriptor id="legalName" type="semantic" />
+  <descriptor id="streetAddress" type="semantic" text="steet" />
+  <descriptor id="addressLocality" type="semantic" text="city"/>
+  <descriptor id="addresRegion" type="semantic" text="state/province/region" />
+  <descriptor id="addressCountry" type="semantic" />
+  <descriptor id="postalCode" type="semantic" />
+
+  <!-- actions -->
+  <descriptor id="getScore" type="safe" text="call to external service">
+    <descriptor href="#legalName" />
+    <descriptor href="streeAddress" />
+    <descriptor href="addressLocality" />
+    <descriptor href="addressRegion" />
+    <descriptor href="addressCountry" />
+    <descriptor href="postalCode" />
+  </descriptor>
+
+</alps>

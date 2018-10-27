@@ -8,6 +8,6 @@
  * [Credit Check Stability SERVICE-PAGE](credit-check-stability.png)
  * [Credit Check Discovery SERVICE-PAGE](credit-check-discovery.png)
  * [Updated Credit Check Story](credit-check-update.md)
- * [Credit Check Adaptability](credit-check-adaptability.png)
+ * [Credit Check Adaptability SERVICE-PAGE](credit-check-adaptability.png)
 
 

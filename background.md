@@ -8,6 +8,8 @@
  * Familiarity with microservices
 
 ### Materials or downloads needed in advance
+The workshop relies on "table-top" exercises using stickynotes and colored pens. However, there _may_ be some code examples shown. If you'd like to access the github repository that holds the code examples and other related material, you can use the following:
+
  * A laptop with Node.js and the text editor and coding environment of your choice installed
  * A GitHub account
  * A Heroku account (optional)

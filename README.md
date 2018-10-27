@@ -8,7 +8,6 @@ _2018-10 London Edition_
  * [Agenda](agenda.md)
  * [Prerequisites/Background](background.md)
  * [Exercises](exercises/README.md)
- * [Workshop Examples](examples/README.md)
  * [Slides](slides/README.md)
  * [In-Class Notes](/notes/README.md)
 

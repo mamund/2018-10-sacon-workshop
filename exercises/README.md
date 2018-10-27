@@ -23,3 +23,7 @@ Workshop exercise-related content goes here.
 
  * [Supplies](supplies.md)
 
+### Credit Check Samples
+
+ * [CreditCheck](sample/README.md)
+

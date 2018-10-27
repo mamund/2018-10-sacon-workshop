@@ -12,7 +12,7 @@ These are the steps to complete this exercise:
    * Update/Replace your SERVICE-PAGE with the data point and action changes
    * Make sure you have an ALPS document that relects the latest data/actions for your story
    * Publish any ALPS content changes to the shared registry
-     * update/replace your stickynote with the laetest unique id and ALPS id
+     * update/replace your stickynote with the latest unique id and ALPS id
    * Mark your service online by adding a green circle over your current red circle
    * Take a large token
  * Check the shared registry for any change to your existing (dependent) service bindings and, if your service bindings have changed (see ALPS id and/or service id) changed:
@@ -24,7 +24,7 @@ These are the steps to complete this exercise:
    * Take a large token
    * _Repeat this for each service binding you are using until all dependent services are updated._
 
-_See [CreditCheck Adaptability[(sample/credit-check-adaptability.png) as an example._
+_See [CreditCheck Adaptability](sample/credit-check-adaptability.png) as an example._
 
 
 

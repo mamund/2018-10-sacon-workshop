@@ -1,6 +1,8 @@
 ## Analysis Exercise
 
-In this exercise, select a BigCo story and perform the following tasks:
+In this exercise, you will convert an existing BigCo, Inc. story into a set of data points and action names on a SERVICE-PAGE.
+
+To complete this exercise, read through your BigCo story and perform the following tasks:
 
  * Identify all the unique data points to store/retrieve
    * Focus on data storage including whether storage is yours (local) or someone else's (remote)

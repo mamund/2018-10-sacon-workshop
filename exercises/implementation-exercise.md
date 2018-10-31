@@ -20,5 +20,5 @@ These are the tasks to complete for this exercise:
    * XML
  * Add a sticky note (with the format name on it) to your SERVICE-PAGE for each supported format
 
-_See [CreditCheck Implementation](sample/credit-check-implementation.png) for an example._
+_See [CreditCheck Implementation](sample/credit-check-implementation.jpg) for an example._
 

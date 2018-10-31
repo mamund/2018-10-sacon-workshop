@@ -38,6 +38,8 @@
  * Wrap-up
    * A RESTful Approach
    * Message-oriented implementation
+   * Microservice types
+   * Stability patterns
    * Discovery constraints
    * Emergent adaptability  
 

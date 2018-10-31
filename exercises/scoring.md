@@ -4,8 +4,12 @@ Use this scoring system to determine the "cost" of your Microservice design/impl
 
 _NOTE: A lower score is better._
 
+#### ServiceCost =  Description + MSType + Format + Stability + Bindability + Adaptability  
+
+<!--
  * Process Score:
    * For each "dependent step" in your WSD, add 100
+-->
  * Description Score:
    * For every data point, add 10
    * For every action, add 100
@@ -28,4 +32,6 @@ _NOTE: A lower score is better._
    * For each added data point, add 1 * your Format value
    * For each added action, add 10 * your Format value
 
+<!--
 ServiceCost =  Process + Description + MSType + Format + Stability + Bindability + Adaptability  
+-->

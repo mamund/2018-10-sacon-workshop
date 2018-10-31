@@ -4,8 +4,10 @@ Use this scoring system to determine the "cost" of your Microservice design/impl
 
 _NOTE: A lower score is better._
 
+<!--
  * Process Score:
    * For each "dependent step" in your WSD, add 100
+-->
  * Description Score:
    * For every data point, add 10
    * For every action, add 100

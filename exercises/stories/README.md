@@ -4,4 +4,5 @@
  * [Accounts](account-story.md)
  * [SalesReps](salesrep-story.md)
  * [Postal Codes](postalcode-story.md)
+ * [Credit Check](credit-check-story.md)
 
